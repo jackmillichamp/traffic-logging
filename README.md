@@ -13,7 +13,7 @@ My final report can be found under "Mini Project Report.pdf". Final grade: First
 ## Instructions for running the server & scripts
 
 ### Running the server...
-This can be run as a local server, by executing python server.py from the command prompt, then accessing http://127.0.0.1:8081/ via a Chrome/Edge browser.
+This can be run as a local server, by executing "python server.py" from the command prompt, then accessing http://127.0.0.1:8081/ via a Chrome/Edge browser.
 - Each time the server is started, the database initialiser file is run (db_initialiser.py)
 - This creates a fresh intial database automatically (overwriting initial_database.db)
 
