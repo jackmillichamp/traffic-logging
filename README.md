@@ -6,16 +6,16 @@
 
 • Developed multiple python scripts to summarise entered traffic data from the database over specified time periods, incorporating advanced SQL queuing
 
-My final report can be found under "Mini Project Report.pdf". Final grade: First class (98%).
+My final report can be found under "Mini Project Report.pdf". Final grade: First class (98%)
 
 ![image](https://github.com/jackmillichamp/traffic-logging/blob/main/pages_overview.png)
 
 ## Instructions for running the server & scripts
 
 ### Running the server...
-This 
-Each time the server is started, the database initialiser file is run (db_initialiser.py). 
-This creates a fresh intial database automatically (overwriting initial_database.db).
+This can be run as a local server, by executing python server.py from the command prompt, then accessing http://127.0.0.1:8081/ via a Chrome/Edge browser.
+- Each time the server is started, the database initialiser file is run (db_initialiser.py)
+- This creates a fresh intial database automatically (overwriting initial_database.db)
 
 ### Running tasks 8 and 9...
 As well as creating a fresh initial_database.db for server use, the database initialiser file also creates task8_database.db and task9_database.db, 
