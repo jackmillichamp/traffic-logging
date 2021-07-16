@@ -8,6 +8,10 @@
 
 My final report can be found under "Mini Project Report.pdf". Final grade: First class (98%).
 
+Here's a view of the traffic logging webpages:
+
+![image](https://github.com/jackmillichamp/traffic-logging/blob/main/pages_overview.png)
+
 ## Instructions for running the server & scripts
 
 ### Running the server...
